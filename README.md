@@ -1,12 +1,12 @@
 ### Привет 👋
-### Меня зовут Богдан и я фронтенд-разработчик
+### Меня зовут Богдан и я фронтенд-разработчик.
 
 **Мой технологический стэк:**
 * HTML/CSS
 * JavaScript
 * Vue.js
 
-Контакты для связи: [telegram](https://t.me/julfy_bs), [мой сайт-портфолио](https://julfy-bs.github.io/portfolio__project/)
+Контакты для связи: [telegram](https://t.me/julfy_bs), [мой сайт-портфолио](https://julfy-bs.github.io/portfolio__project/).
 <!--
 **julfy-bs/julfy-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
