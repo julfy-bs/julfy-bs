@@ -1,13 +1,13 @@
-# Привет! 👋
+# Hello! 👋
 
-### Меня зовут Богдан и я фронтенд-разработчик.
+### My name is Bogdan Sutuzhko. I am a front-end developer based in Moscow. My focus area for the past few years has been front-end development with Vue. I am currently looking for a job as a Junior Frontend developer.
 
-**Мой технологический стэк:**
+** Skills: **
 * HTML/CSS
 * JavaScript
 * Vue.js
 
-Контакты для связи: [telegram](https://t.me/julfy_bs), [мой сайт-портфолио](https://julfy-bs.github.io/portfolio__project/).
+[telegram](https://t.me/julfy_bs), [portfolio](https://julfy-bs.github.io/portfolio/).
 <!--
 **julfy-bs/julfy-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
