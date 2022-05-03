@@ -2,7 +2,7 @@
 
 My name is Bogdan Sutuzhko. I am a front-end developer based in Moscow. My focus area for the past few years has been front-end development with Vue. I am currently looking for a job as a Junior Frontend developer.
 
-** Skills: **
+**Skills:**
 * HTML/CSS
 * JavaScript
 * Vue.js
