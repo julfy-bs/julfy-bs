@@ -30,7 +30,33 @@
 
 ## Statisctics 📈
 <!-- STAT:START -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="julfy-bs github stats">
+      <a/>
+    </td>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&theme=github_dark&layout=compact&hide_border=true" alt="julfy-bs language stats">
+      <a/>
+    </td>
+   </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=julfy-bs&theme=tokyonight_duo&hide_border=true" alt="julfy-bs streak stats">
+      <a/>
+    </td>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&theme=github_dark&hide_border=true" alt="julfy-bs Language usage time">
+      <a/>
+    </td>
+   </tr>
+</table>
 <!-- STAT:END -->
 
 ## Achievements
