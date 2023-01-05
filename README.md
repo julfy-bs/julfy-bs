@@ -33,26 +33,66 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="julfy-bs github stats">
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true" />
+        </picture>
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&theme=github_dark&layout=compact&hide_border=true" alt="julfy-bs language stats">
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true" />
+        </picture>
       <a/>
     </td>
    </tr>
   <tr>
   <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=julfy-bs&theme=tokyonight_duo&hide_border=true" alt="julfy-bs streak stats">
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true" />
+        </picture>
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&theme=github_dark&hide_border=true" alt="julfy-bs Language usage time">
+      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true" />
+        </picture>
       <a/>
     </td>
    </tr>
