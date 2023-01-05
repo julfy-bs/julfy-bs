@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! It's me, <a href="https://julfy-bs.github.io/portfolio/" target="_blank">Bogdan Sutuzhko</a> on GitHub!✨</h1>
-<h3 align="center">I am a frontend developer.</h3>
 
 <p align="center">
   <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
@@ -12,7 +11,7 @@
     <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<br />
+<h3 align="center">I am a frontend developer and i like it.</h3>
 
 ## Skills 🔧
 <!-- Skills:START -->
