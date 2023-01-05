@@ -8,7 +8,7 @@
   <a href="https://t.me/julfy_bs" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/sutuzhko-bogdan/" target="_blank">
     <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
