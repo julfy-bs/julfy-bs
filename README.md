@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! It's me, <a href="" target="_blank">Bogdan Sutuzhko</a> on GitHub!✨</h1>
+<h1 align="center">Hey there! It's me, <a href="https://julfy-bs.github.io/portfolio/" target="_blank">Bogdan Sutuzhko</a> on GitHub!✨</h1>
 <h3 align="center">I am a frontend developer.</h3>
 
 <p align="center">
