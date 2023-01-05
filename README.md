@@ -14,14 +14,14 @@
 </p>
 <br />
 
-## Skills:
+## Skills 🔧
 <!-- Skills:START -->
 * HTML/CSS
 * JavaScript
 * Vue.js
 <!-- Skills:END -->
 
-## My current goals: ✅ 
+## My current goals ✅ 
 <!-- TODO-LIST:START -->
 * [x] Improve frontend development skills
 * [x] Learn Vue
@@ -99,7 +99,7 @@
 </table>
 <!-- STAT:END -->
 
-## Achievements
+## Achievements 🏆
 <!-- ACHIEVEMENTS:START -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)" />
