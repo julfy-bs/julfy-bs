@@ -101,7 +101,9 @@
 
 ## Achievements
 <!-- ACHIEVEMENTS:START -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)" />
+</p>
 <!-- ACHIEVEMENTS:END -->
 
 <!--
