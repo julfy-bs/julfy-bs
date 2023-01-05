@@ -36,7 +36,7 @@
       <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=julfy-bs&show_icons=true&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
           <source
@@ -51,14 +51,14 @@
       <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&theme=github_dark&layout=compact&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&layout=compact&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julfy-bs&show_icons=true&layout=compact&hide_border=true" />
         </picture>
       <a/>
     </td>
@@ -69,14 +69,14 @@
       <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true&theme=dark"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=julfy-bs&theme=github-dark&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=julfy-bs&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?username=julfy-bs&show_icons=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=julfy-bs&hide_border=true" />
         </picture>
       <a/>
     </td>
@@ -84,14 +84,14 @@
       <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&theme=github_dark&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&show_icons=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&hide_border=true" />
         </picture>
       <a/>
     </td>
