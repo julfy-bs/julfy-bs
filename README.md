@@ -104,7 +104,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)" />
 </p>
 <!-- ACHIEVEMENTS:END -->
-
+<!-- SNAKE:START -->
+<p align="center">
+  <img src="./snake.svg" />
+</p>
+<!-- SNAKE:END -->
 <!--
 **julfy-bs/julfy-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
