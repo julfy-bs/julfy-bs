@@ -106,7 +106,9 @@
 <!-- ACHIEVEMENTS:END -->
 <!-- SNAKE:START -->
 <p align="center">
-  <img src="./snake.svg" />
+  <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+    <img src="./snake.svg" />
+  </a>
 </p>
 <!-- SNAKE:END -->
 <!--
