@@ -22,9 +22,9 @@
 
 ## ✅ My current goals 
 <!-- TODO-LIST:START -->
-* [x] Improve frontend development skills
-* [x] Learn Vue
-* [ ] Try React
+* [ ] Get a job as a Frontend Developer
+* [ ] Graduate from Yandex Web courses
+* [ ] Сreate an animated 2d action game in javascript
 <!-- TODO-LIST:END -->
 
 ## 📈 Statisctics
