@@ -11,13 +11,17 @@
     <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<h3 align="center">I am a frontend developer and i like it.</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B883&center=true&width=435&lines=I+am+a+Frontend+developer.+;And+I+like+it!" alt="Typing SVG" /></a>
+</p>
 
 ## 🔧 Skills
 <!-- Skills:START -->
 * HTML/CSS
 * JavaScript
 * Vue.js
+* React
 <!-- Skills:END -->
 
 ## ✅ My current goals 
