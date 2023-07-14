@@ -24,13 +24,6 @@
 * React
 <!-- Skills:END -->
 
-## ✅ My current goals 
-<!-- TODO-LIST:START -->
-* [ ] Get a job as a Frontend Developer
-* [ ] Graduate from Yandex Web courses
-* [ ] Сreate an animated 2d action game in javascript
-<!-- TODO-LIST:END -->
-
 ## 📈 Statisctics
 <!-- STAT:START -->
 <table align="center" cellspacing="0" cellpadding="0" border="0">
