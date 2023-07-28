@@ -19,9 +19,8 @@
 ## 🔧 Skills
 <!-- Skills:START -->
 * HTML/CSS
-* JavaScript
-* Vue.js
-* React
+* JavaScript/TypeScript
+* React/Vue
 <!-- Skills:END -->
 
 ## 📈 Statisctics
