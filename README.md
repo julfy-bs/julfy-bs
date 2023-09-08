@@ -1,29 +1,31 @@
-<h1 align="center">Hey there! It's me, <a href="https://julfy-bs.github.io/portfolio/" target="_blank">Bogdan Sutuzhko</a> on GitHub!✨</h1>
-
-<p align="center">
-  <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
-    <img alt="My web-site" src="https://img.shields.io/badge/-bogdan_sutuzhko_website-%2342b883?style=for-the-badge&logo=burton&logoColor=white">
-   </a>
-  <a href="https://t.me/julfy_bs" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/sutuzhko-bogdan/" target="_blank">
-    <img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="center" style="height: 200px">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=38&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=900&lines=Hey+there!+%F0%9F%91%8B;My+name+is+Bogdan+Sutuzhko!;Nice+to+meet+you!;I+am+a+frontend+developer+from+Moscow.;Check+out+my+works+below+%F0%9F%91%87" alt="Typing SVG" /></a>
 </p>
 
+<!-- Contacts:START -->
 <p align="center">
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B883&center=true&width=435&lines=I+am+a+Frontend+developer.+;And+I+like+it!" alt="Typing SVG" /></a>
+  <a href="https://julfy-bs.github.io/portfolio/" target="_blank"><img alt="My web-site" src="https://img.shields.io/badge/-bogdan_sutuzhko_website-%2342b883?style=for-the-badge&logo=burton&logoColor=white"></a>
+  <a href="https://t.me/julfy_bs" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sutuzhko-bogdan/" target="_blank"><img alt=" Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+<!-- Contacts:END -->
 
-## 🔧 Skills
-<!-- Skills:START -->
-* HTML/CSS
-* JavaScript/TypeScript
-* React/Vue
-<!-- Skills:END -->
+<!-- Stack:START -->
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+</p>
+<!-- Stack:END -->
 
-## 📈 Statisctics
 <!-- STAT:START -->
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
@@ -76,30 +78,29 @@
       <a/>
     </td>
     <td>
-      <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
+      <!-- ACHIEVEMENTS:START -->
+      <!-- <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)" /> -->
+      <p align="center">
+        <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-readme-stats-skyz.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&theme=github_dark&hide_border=true"
+            srcset="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&theme=darkhub&hide_border=true&row=2&column=4&no-bg=true&no-frame=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-skyz.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&hide_border=true"
+            srcset="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&hide_border=true&row=2&column=4&no-bg=true&no-frame=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-skyz.vercel.app/api/pin/?username=julfy-bs&repo=julfy-bs&show_icons=true&hide_border=true" />
+          <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&hide_border=true&row=2&column=4&no-bg=true&no-frame=true" />
         </picture>
       <a/>
+      </p>
+      <!-- ACHIEVEMENTS:END -->
     </td>
    </tr>
 </table>
 <!-- STAT:END -->
 
-## 🏆 Achievements
-<!-- ACHIEVEMENTS:START -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)" />
-</p>
-<!-- ACHIEVEMENTS:END -->
 <!-- SNAKE:START -->
 <p align="center">
   <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
@@ -107,17 +108,3 @@
   </a>
 </p>
 <!-- SNAKE:END -->
-<!--
-**julfy-bs/julfy-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
