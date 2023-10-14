@@ -61,7 +61,9 @@
   </p>
 </p>
 <!-- Stack:END -->
-
+</br>
+</br>
+</br>
 <!-- STAT:START -->
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
@@ -136,11 +138,3 @@
    </tr>
 </table>
 <!-- STAT:END -->
-
-<!-- SNAKE:START -->
-<p align="center">
-  <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
-    <img src="./snake.svg" />
-  </a>
-</p>
-<!-- SNAKE:END -->
