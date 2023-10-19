@@ -1,0 +1,10 @@
+# Optional npm cache directory
+.npm
+
+# .env variables
+*.env
+
+# Optional REPL history
+.DS_Store
+.idea
+.vscode
