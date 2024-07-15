@@ -122,14 +122,14 @@
         <a href="https://julfy-bs.github.io/portfolio/" target="_blank">
         <picture>
           <source 
-            srcset="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&theme=darkhub&hide_border=true&row=2&column=4&no-bg=true&no-frame=true"
+            srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=julfy-bs&backgroundColor=0d1117&textColor=fff&borderColor=0d1117&primaryColor=47cf5c"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&hide_border=true&row=2&column=4&no-bg=true&no-frame=true"
+            srcset="https://codewars-stats-ignacio-cuadra.vercel.app/?username=julfy-bs"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-profile-trophy.vercel.app/?username=julfy-bs&show_icons=true&hide_border=true&row=2&column=4&no-bg=true&no-frame=true" />
+          <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=julfy-bs" />
         </picture>
         </a>
       </p>
